@@ -1,6 +1,6 @@
 # PiNets
 
-Data and Code for ***Intrinsic Signal Detection and Listenable Maps with PiNets**
+Data and Code for **Intrinsic Signal Detection and Listenable Maps with PiNets**
 
 Author: Corentin Lobet
 
