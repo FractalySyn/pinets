@@ -10,4 +10,4 @@ The curated dataset is in the `BirdCLEF/data/` folder alongside the trained mode
 
 The code for `Data Curation` and `Training and Signal Detection` are in the eponym python notebooks. 
 
-The second notebook can be used to inspect the detected signal both visually and aurally.
+The second notebook can be used to inspect the detected signal both visually and aurally. Note however that notebook renderers do not generally support audio players so the notebook should be run again (takes a couple minutes). 
